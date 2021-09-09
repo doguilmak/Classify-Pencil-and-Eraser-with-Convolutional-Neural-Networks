@@ -42,6 +42,6 @@ Before running the code if you don't have all the necessery libraries, you need 
  - warnings 
  - sklearn
     
-## Contact With Me
+## Contact Me
 
 If you have something to say to me please contact me on [Twitter](https://twitter.com/Doguilmak). 
