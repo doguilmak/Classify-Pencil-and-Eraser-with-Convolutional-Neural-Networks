@@ -44,4 +44,8 @@ Before running the code if you don't have all the necessery libraries, you need 
     
 ## Contact Me
 
-If you have something to say to me please contact me on [Twitter](https://twitter.com/Doguilmak). 
+If you have something to say to me please contact me: 
+
+ - Twitter: [Doguilmak](https://twitter.com/Doguilmak).  
+ - Mail address: doguilmak@gmail.com
+ 
