@@ -34,7 +34,7 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 
 ## How to Run Code
 
-Before running the code if you don't have all the necessery libraries, you need to have these libraries:
+Before running the code make sure that you have these libraries:
 
  - keras 
  - numpy 
