@@ -32,17 +32,17 @@ start = time.time()
 classifier.add(Convolution2D(32, 3, 3, input_shape = (64, 64, 3), activation = 'relu'))  
 # input_shape = (64, 64, 3) size of 64x64 pictures with RGB colors (3 primary colors).
 
-# Adım 2 - Pooling
+# Step 2 - Pooling
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 
-# Adım 3 - Second Convolution Layer
+# Step 3 - Second Convolution Layer
 classifier.add(Convolution2D(32, 3, 3, activation = 'relu'))
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 
-# Adım 4 - Flattening
+# Step 4 - Flattening
 classifier.add(Flatten())
 
-# Adım 5 - Artificial Neural Network
+# Step 5 - Artificial Neural Network
 classifier.add(Dense(output_dim = 128, activation = 'relu'))  # Gives 128bit output
 classifier.add(Dense(output_dim = 1, activation = 'sigmoid'))  # Returns a value of 1 or 0 (it can be said that a binomial determination is made to determine the male and female class)
 
