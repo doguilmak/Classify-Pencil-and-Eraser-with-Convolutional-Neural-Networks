@@ -28,8 +28,11 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 | dense_4 (Dense)   | (None, 1)   | 129 
 
 > Total params: 813,217
+> 
 > Trainable params: 813,217
+> 
 > Non-trainable params: 0
+> 
 > Took 90.84954714775085 seconds to classificate objects.
 
 ## How to Run Code
